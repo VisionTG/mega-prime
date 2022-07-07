@@ -5,7 +5,7 @@ class _BotCommands:
     def __init__(self):
         self.StartCommand = f'start{CMD_INDEX}'
         self.MirrorCommand = f'mega_mirror{CMD_INDEX}'
-        self.UnzipMirrorCommand = f'extract{CMD_INDEX}'
+        self.UnzipMirrorCommand = f'extract_mirtot{CMD_INDEX}'
         self.ZipMirrorCommand = f'zip{CMD_INDEX}'
         self.CancelMirror = f'cancel{CMD_INDEX}'
         self.CancelAllCommand = f'cancelall{CMD_INDEX}'
